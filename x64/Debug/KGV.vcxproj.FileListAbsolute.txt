@@ -1,0 +1,3 @@
+C:\Users\HP\Downloads\9. OOP\x64\Debug\KGV.exe
+C:\Users\HP\Downloads\KGV\x64\Debug\KGV.exe
+D:\Pemrograman Visual\KGV_Rendering Multiple Object\x64\Debug\KGV.exe

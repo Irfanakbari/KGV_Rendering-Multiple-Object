@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Math1.vcxproj, RGBClock.vcxproj, Texture.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Math2GLM.cpp
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\8. Math2GLM\Math2GLM.cpp(20,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\8. Math2GLM\Math2GLM.cpp(159,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\8. Math2GLM\Math2GLM.cpp(198,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\8. Math2GLM\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Math2GLM.vcxproj -> E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\8. Math2GLM\x64\Debug\Math2GLM.exe
